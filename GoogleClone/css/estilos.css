@@ -25,3 +25,20 @@ a{
     text-decoration: none;
 }
 
+
+main{
+    margin-top: 301px;
+   text-align: center;
+}
+
+main .logo-google{
+width: ;
+margin 0 auto;
+margin-bottom: 30px;
+}
+
+main .logo-google img{
+    width: 272px;
+    height: 92px;
+}
+
