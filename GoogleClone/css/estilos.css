@@ -46,20 +46,7 @@ nav .menu-nav .menu-icono{
 
 ----------------------------------------------------------------
 
-
-
-main{
-    margin-top: 150px;
-   text-align: center;
+main {
+    margin-top: 100px;
+    text-align: center;
 }
-
-main .logo-google{
-width:530 ;
-margin: 0 auto;
-margin-bottom: 35px;
-}
-
-main .logo-google img{
-    width: 272px;
-    height: 92px;
-} 
